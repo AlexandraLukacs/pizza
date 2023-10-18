@@ -1,2 +1,2 @@
-# pizza
-GitHub-on létrehozva: Lukács Alexandra
+## pizza
+# GitHub-on létrehozva: ** Lukács Alexandra **
