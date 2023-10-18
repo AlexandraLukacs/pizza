@@ -271,7 +271,7 @@ public class Pizza extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Rendelés Sikeres!");
+        JOptionPane.showMessageDialog(rootPane, "Tesztverzió!", "cím", 2);
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
